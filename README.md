@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @TheSoundofGoodbye
+- a.k.a Karbe
 - 👀 I’m interested in Java and JS.
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS.
+
+- Working in Neighbor system (2022-02-07 ~ Current)
 
 <!---
 TheSoundofGoodbye/TheSoundofGoodbye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
