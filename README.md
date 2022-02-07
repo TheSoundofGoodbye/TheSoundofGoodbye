@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @TheSoundofGoodbye
-- a.k.a Karbe
+- 👋 Hi, I’m @TheSoundofGoodbye (a.k.a Karbe)
 - 👀 I’m interested in Java and JS.
 - 🌱 I’m currently learning JS.
 
